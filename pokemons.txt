@@ -1,0 +1,13 @@
+1 Bulbasaur 45 49 49 0 0 2
+2 Charmander 39 52 43 0 0 2
+3 Squirtle 44 48 65 0 0 2
+4 Caterpie 45 30 35 0 0 1
+5 Pidgey 40 45 40 0 0 1
+6 Rattata 30 56 35 0 0 1
+7 Ekans 35 60 44 0 0 1
+8 Pikachu 35 55 40 0 0 3
+9 Oddish 45 50 55 0 0 1
+10 Meowth 40 45 35 0 0 2
+11 Psyduck 50 52 48 0 0 3
+12 Eevee 55 55 50 0 0 1 1
+13 Larvitar 50 64 50 0 1 1 2	
